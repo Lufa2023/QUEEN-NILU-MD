@@ -14,16 +14,16 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;0zJlEK4J#ABl96zKrqFqxu9Zo_Od5VH6rbiTGWZECwLbd0R-FlZA' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgresql://postgres:Y2qPxzVxV6ceGNSRf0AA@containers-us-west-210.railway.app:7548/railway'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94715486555'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -49,7 +49,7 @@ global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
