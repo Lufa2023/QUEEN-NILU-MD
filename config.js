@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;0zJlEK4J#ABl96zKrqFqxu9Zo_Od5VH6rbiTGWZECwLbd0R-FlZA' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;56Ak0KpS#n2cqWcq3J-5UgIE0_dejK9ahrBQOmLNEknZBUJW2H78' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgresql://postgres:Y2qPxzVxV6ceGNSRf0AA@containers-us-west-210.railway.app:7548/railway'
